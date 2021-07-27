@@ -18,12 +18,12 @@
 
 ## Sobre o projeto
 
-O intuito desse projeto é aplicar os conhecimentos de JS em projetos que vão do iniciante ao avançado, e uma forma de ter um conteúdo vasto e extremamente útil para o desenvolvimento Web
+O intuito desse projeto é aplicar os conhecimentos de JS-ES6 em projetos que vão do iniciante ao avançado, e uma forma de ter um conteúdo vasto e extremamente útil para o desenvolvimento Web
 
 ---
 
 
-## Projeto desenvolvido
+## Projetos desenvolvidos
 
 
 ---
