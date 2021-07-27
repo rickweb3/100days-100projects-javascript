@@ -26,6 +26,6 @@ O intuito do projeto "100 Days - 100 Projects" é aplicar os conhecimentos de **
 ## Projetos desenvolvidos
 
 [Day 1 - Counter App](https://github.com/rickweb3/100days-100projects-javascript/tree/main/Projects%20Javascript/Day%201%20-%20Counter%20App)
-<a href="https://github.com/rickweb3/100days-100projects-javascript/tree/main/Projects%20Javascript/Day%201%20-%20Counter%20App">Day 1 - Counter App</a>
+<a href="https://github.com/rickweb3/100days-100projects-javascript/tree/main/Projects%20Javascript/Day%201%20-%20Counter%20App" target="_blank">Day 1 - Counter App</a>
 
 ---
