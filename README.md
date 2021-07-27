@@ -25,6 +25,6 @@ O intuito do projeto "100 Days - 100 Projects" é aplicar os conhecimentos de **
 
 ## Projetos desenvolvidos
 
-[Day 1 - Counter App](100days-100projects-javascript/Projects Javascript/Day 1 - Counter App)
+[Day 1 - Counter App](/Projects Javascript)
 
 ---
