@@ -11,7 +11,7 @@
 
 
 <h4 align="center"> 
-	🚧 100 Projetos JS - Em desenvolvimento... 🚧
+	🚧 100 Projetos JS-ES6 - Em desenvolvimento... 🚧
 </h4>
 
 
