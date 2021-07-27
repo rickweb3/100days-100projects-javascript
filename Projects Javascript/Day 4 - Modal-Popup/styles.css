@@ -100,10 +100,10 @@ form button:hover {
 }
 
 @keyframes slide {
-  from {
+  0% {
     transform: translate(-30);
   }
-  to {
+  100% {
     transform: translateY(0);
   }
 }
