@@ -6,12 +6,14 @@ btn.addEventListener("click", countVowel);
 
 function countVowel() {
     let vowelCount = 0;
-    let wordValue = word.nodeValue.toLowerCase();
+    let wordVal = word.value.toLowerCase();
 
-    for (let i = 0; i < wordValue.length; i++) {
-        let letter = wordVale[i];
+    for (let i = 0; i < wordVal.length; i++) {
+        let letter = wordVal[i];
         if (letter.match(/([a,e,i,o,u])/)) {
             vowelCount++;
         }
     }
+
+    result.innerHTML = `${word.value.toUpperCase()} has ${vowelCount} vowels`;
 }
