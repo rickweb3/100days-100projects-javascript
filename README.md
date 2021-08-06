@@ -29,5 +29,7 @@ O intuito do projeto "100 Days - 100 Projects" é aplicar os conhecimentos de **
 [Day 2 - Random Hex Color Generator](https://github.com/rickweb3/100days-100projects-javascript/tree/main/Projects%20Javascript/Day%202%20-%20Random%20Hex%20Color%20Generator)<br/>
 [Day 3 - Random Number Generator](https://github.com/rickweb3/100days-100projects-javascript/tree/main/Projects%20Javascript/Day%203%20-%20Random%20Number%20Generator)<br/>
 [Day 4 - Modal-Popup](https://github.com/rickweb3/100days-100projects-javascript/tree/main/Projects%20Javascript/Day%204%20-%20Modal-Popup)<br/>
-
+[Day 5 - Palindrome Checker](https://github.com/rickweb3/100days-100projects-javascript/tree/main/Projects%20Javascript/Day%205%20-%20Palindrome%20Checker)<br/>
+[Day 6 - Vowel Counter App](https://github.com/rickweb3/100days-100projects-javascript/tree/main/Projects%20Javascript/Day%206%20-%20Vowel%20Counter%20App)<br/>
+[Day 7 - Click to Copy](https://github.com/rickweb3/100days-100projects-javascript/tree/main/Projects%20Javascript/Day%207%20-%20Click%20to%20Copy)<br/>
 ---
